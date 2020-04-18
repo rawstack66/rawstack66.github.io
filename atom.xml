@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rawstack66.github.io</id>
     <title>Raw博客</title>
-    <updated>2020-04-18T07:25:47.530Z</updated>
+    <updated>2020-04-18T10:31:57.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rawstack66.github.io"/>
     <link rel="self" href="https://rawstack66.github.io/atom.xml"/>
@@ -23,6 +23,32 @@
 <h2 id="bots-商店">Bots 商店</h2>
 <p>在 <a href="https://rawstack.co/">Raw栈导航</a> 最下面的 <strong>Telegram频道</strong> - <strong>Bot商店</strong>，你可以找到很多发布和更新Bots的频道或机器人（非套娃），跳转查看就可以获取各种机器人。<br>
 <img src="https://rawstack66.github.io/post-images/1587194233378.png" alt="" loading="lazy"></p>
+<h2 id="官方">官方</h2>
+<ul>
+<li><a href="https://t.me/BotFather"><strong>@BotFather</strong></a>   BotFather，可以创建和管理机器人</li>
+<li><a href="https://t.me/SpamBot"><strong>@SpamBot</strong></a>    Spam Info Bot，+86手机用户注册后需要到这里进行对话解封操作，也可以查询自己有没有在官方的账号限制名单中</li>
+<li><a href="https://t.me/telegraph"><strong>@telegraph</strong></a>   Telegraph，登录和管理 Telegraph，获取文章的阅读统计数据</li>
+<li><a href="https://t.me/previews"><strong>@previews</strong></a>   Previews，反馈和评论帮助官方完善 Web 文章的 Instant View（即时预览）功能。</li>
+</ul>
+<h2 id="音乐类">音乐类</h2>
+<ul>
+<li><a href="https://t.me/Deezer_spotify_bot"><strong>@Deezer_spotify_bot</strong></a>   下载 Deezer 和 Spotify上的歌曲，可以搜索歌手、专辑、单曲进行下载，带轨道、发行时间、海报等歌曲信息，320kbps（可选下载音质），非常好用</li>
+<li><a href="https://t.me/MusicHuntersBot"><strong>@MusicHuntersBot</strong></a>   Music Hunters，输入 Deezer 和 Spotify 的单曲链接下载，带歌曲信息</li>
+<li><a href="https://t.me/YTAudioBot"><strong>@YTAudioBot</strong></a>   YouTube Audio Bot，下载YouTube视频的音频，支持20多种语言，发送视频链接即可下载</li>
+</ul>
+<h2 id="视频类">视频类</h2>
+<ul>
+<li><a href="https://t.me/utubebot"><strong>@utubebot</strong></a>   utubebot，支持YouTube、Dailymotion、Vimeo等多个视频平台，可以分别按照画质和音质下载视频、音频文件，还可以播放热门视频、订阅油管频道，功能过于强大，建议Telegrammer人手一个</li>
+</ul>
+<h2 id="文件类">文件类</h2>
+<ul>
+<li><a href="https://t.me/tlgurbot"><strong>@tlgurbot</strong></a>   tlgur，发送图片、视频等各种文件获取公共链接，便于分享和存档</li>
+</ul>
+<h2 id="邮箱">邮箱</h2>
+<ul>
+<li><a href="https://t.me/etlgr_bot"><strong>@etlgr_bot</strong></a>   Telegram Email，临时邮箱服务，@etlgr.com 后缀</li>
+<li><a href="https://t.me/fakemailbot">@fakemailbot</a>   Fake Mail，临时邮箱服务，@hi2.in 后缀</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
