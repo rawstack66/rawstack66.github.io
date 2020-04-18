@@ -30,21 +30,30 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            文章目录
+            Techs make fun.
           </p>
-          <div class="toc-container hidden lg:block">
-            <ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99">💨 关于本站</a></li>
-<li><a href="#%EF%B8%8F-%E5%8D%9A%E4%B8%BB%E6%98%AF%E8%B0%81">⚡️ 博主是谁</a></li>
-<li><a href="#%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD">🍭 兴趣爱好</a></li>
-<li><a href="#%E8%81%94%E7%B3%BB%E6%88%91%E5%91%80">📬 联系我呀</a></li>
-<li><a href="#%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98">🍥 网络问题</a></li>
-</ul>
-</li>
-</ul>
-
+          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
           </div>
         </div>
       
@@ -94,66 +103,34 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">关于</h1>
-        <div class="text-sm text-gray-700 lg:my-8">
-          2020-04-08 / 1 min read
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
+        <h2 class="text-lg text-gray-700 mb-8">
+          <i class="ri-bookmark-line"></i> Telegram
+        </h2>
+        
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
+    
+      <a href="https://rawstack66.github.io/post/telegram-bots/" class="feature-image-wrapper bg-gray-100 rounded-lg flex-shrink-0 mr-8 w-full h-56 h-32 md:w-56 md:h-40">
+        <div class="post-feature-image lazy w-full h-56 h-32 md:w-56 md:h-40" data-bg="'https://rawstack66.github.io/post-images/telegram-bots.png'">
         </div>
-        
-        <div class="post-content yue">
-          <blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">💨 关于本站</h2>
-<p>本站专注分享各种互联网技术，科技带来改变！</p>
-<h2 id="️-博主是谁">⚡️ 博主是谁</h2>
-<p>站长，理工男，英语学习者</p>
-<h2 id="兴趣爱好">🍭 兴趣爱好</h2>
-<p>读书看报，插科打诨，传播技术，分享原理</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>你可以关注我的微信公众号 - Geker，获取我的最新动态；<br>
-还可以访问导航网站 - <a href="https://rawstack.co/">Raw栈</a>，和我一起探索互联网科技</p>
-<h2 id="网络问题">🍥 网络问题</h2>
-<p>本站架设在GitHub Pages上，国内访问缓慢，建议开启代理，<a href="https://github.com/geph-official/geph2/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89">点击这里</a>。</p>
+      </a>
+    
+    <div class="content">
+      <a href="https://rawstack66.github.io/post/telegram-bots/">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">Telegram Bots推荐</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
+        <p>Telegram 在 2015 年 6 月发布了<a href="https://telegram.org/blog/bot-revolution">机器人平台</a>，经过几年的发展，基于其丰富的自定义接口和开放的特性，把Telegram这样一款IM工具也扩化成了瑞士军刀，也已然融入到了个人和社区用户的日常Telegram使用中。这里推荐一些Bots，帮助大家提高Telegram的使用体验。</p>
 
-        </div>
+      </div>
+      <div class="text-gray-400 text-sm font-light">2020-04-18 / 1 min read</div>
+    </div>
+  </section>
 
-        
-
-
-        <div class="flex justify-between py-8">
-          
-
-          
-        </div>
-
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '062b22623ebd0a021291',
-    clientSecret: 'b1d5439521a460827f47d624df82a546d37e9be9',
-    repo: 'rawstack66.github.io',
-    owner: 'rawstack66',
-    admin: ['rawstack66'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
+        <div class="pagination-container animated fadeIn">
+  
+  
+</div>
 
       </div>
     </div>
