@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rawstack66.github.io</id>
     <title>Raw博客</title>
-    <updated>2020-04-18T11:26:44.524Z</updated>
+    <updated>2020-04-19T09:59:29.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rawstack66.github.io"/>
     <link rel="self" href="https://rawstack66.github.io/atom.xml"/>
@@ -21,62 +21,211 @@
         <content type="html"><![CDATA[<p>Telegram 在 2015 年 6 月发布了<a href="https://telegram.org/blog/bot-revolution">机器人平台</a>，经过几年的发展，基于其丰富的自定义接口和开放的特性，把Telegram这样一款IM工具也扩化成了瑞士军刀，也已然融入到了个人和社区用户的日常Telegram使用中。这里推荐一些TG机器人，帮助大家提高Telegram的使用体验。</p>
 <!-- more -->
 <h2 id="bots-商店">Bots 商店</h2>
-<p>在 <a href="https://rawstack.co/">Raw栈导航</a> 最下面的 <strong>Telegram频道</strong> - <strong>Bot商店</strong>，你可以找到很多发布和更新Bots的频道或机器人（非套娃），跳转查看就可以获取各种实用 Bots。<br>
-<img src="https://rawstack66.github.io/post-images/1587194233378.png" alt="" loading="lazy"></p>
-<h2 id="官方">官方</h2>
+<p>在 <a href="https://rawstack.co/">Raw栈导航</a> 最下面的 <strong>Telegram频道</strong> - <strong>Bot商店</strong>，你可以找到很多发布和更新Bots的频道或机器人（非套娃），跳转查看就可以获取各种实用 Bots。</p>
+<figure data-type="image" tabindex="1"><img src="https://rawstack66.github.io/post-images/1587194233378.png" alt="" loading="lazy"></figure>
+<h2 id="官方-bots">官方 Bots</h2>
 <ul>
-<li><a href="https://t.me/BotFather"><strong>@BotFather</strong></a>   BotFather，可以创建和管理机器人</li>
+<li><a href="https://t.me/BotFather"><strong>@BotFather</strong></a>   BotFather，可以创建和管理机器人，Bot 教父</li>
+<li><a href="https://t.me/BotSupport"><strong>@BotSupport</strong></a>   Bot Support，开发中遇到的问题和建议可以给这个机器人发送反馈</li>
 <li><a href="https://t.me/SpamBot"><strong>@SpamBot</strong></a>    Spam Info Bot，+86手机用户注册后需要到这里进行对话解封操作，也可以查询自己有没有在官方的账号限制名单中</li>
 <li><a href="https://t.me/telegraph"><strong>@telegraph</strong></a>   Telegraph，登录和管理 Telegraph，获取文章的阅读统计数据</li>
 <li><a href="https://t.me/Stickers"><strong>@Stickers</strong></a>   Telegram贴图和贴图包的建立、修改、统计与移除都是靠「 Stickers」这个官方的机器人运作</li>
-<li><a href="https://t.me/previews"><strong>@previews</strong></a>   Previews，反馈和评论帮助官方完善 Web 文章的 Instant View（即时预览）功能。<br>
-##官方增强</li>
+<li><a href="https://t.me/previews"><strong>@previews</strong></a>   Previews，反馈和评论帮助官方完善 Web 文章的 Instant View（即时预览）功能</li>
+<li><a href="https://t.me/GmailBot"><strong>@GmailBot</strong></a>   Gmail Bot，在Telegram内收发gmail</li>
+<li><a href="https://t.me/gamebot"><strong>@GameBot</strong></a>   GameBot，Telegram游戏平台的demo机器人，在Telegram，你甚至可以打游戏</li>
+<li><a href="https://t.me/IFTTT"><strong>@IFTTT</strong></a>    IFTTT，连接你的群组或频道到360多种服务</li>
+</ul>
+<h2 id="服务">服务</h2>
+<h3 id="系统功能">系统功能</h3>
+<ul>
 <li><a href="https://t.me/getidsbot"><strong>@getidsbot</strong></a>   GetIDs Bot，此机器人可以查看 Telegram 帐号的真实ID、注册日期等信息</li>
+<li><a href="https://t.me/RawDataBot"><strong>@RawDataBot</strong></a>   Telegram Bot Raw，获取频道、群组和用户信息</li>
+<li><a href="https://t.me/getuseridbot"><strong>@getuseridbot</strong></a>   发送信息即刻获取用户ID</li>
+<li><a href="https://t.me/LivegramBot"><strong>@LivegramBot</strong></a>   可以搭建自己的私聊机器人，搭配 Botfather 使用</li>
+<li><a href="https://t.me/Manybot"><strong>@Manybot</strong></a>   创建自己的机器人，功能很多</li>
+<li><a href="https://t.me/CorsaBot"><strong>@CorsaBot</strong></a>   发送网页转发成 Instant View 文章</li>
+<li><a href="https://github.com/SpriteOvO/Telegram-Anti-Revoke"><strong>Telegram-Anti-Revoke</strong></a>   Telegram 防撤回插件</li>
+<li><a href="https://t.me/IVrobot"><strong>@IVrobot</strong></a>   Instant View Robot，快速创建Telegraph</li>
 </ul>
-<h2 id="音乐类">音乐类</h2>
+<h3 id="文件">文件</h3>
 <ul>
-<li><a href="https://t.me/Deezer_spotify_bot"><strong>@Deezer_spotify_bot</strong></a>   下载 Deezer 和 Spotify上的歌曲，可以搜索歌手、专辑、单曲进行下载，带轨道、发行时间、海报等歌曲信息，320kbps（可选下载音质），非常好用</li>
-<li><a href="https://t.me/MusicHuntersBot"><strong>@MusicHuntersBot</strong></a>   Music Hunters，输入 Deezer 和 Spotify 的单曲链接下载，带歌曲信息</li>
-<li><a href="https://t.me/YTAudioBot"><strong>@YTAudioBot</strong></a>   YouTube Audio Bot，下载YouTube视频的音频，支持20多种语言，发送视频链接即可下载</li>
-</ul>
-<h2 id="视频类">视频类</h2>
-<ul>
-<li><a href="https://t.me/utubebot"><strong>@utubebot</strong></a>   utubebot，支持YouTube、Dailymotion、Vimeo等多个视频平台，可以分别按照画质和音质下载视频、音频文件，还可以播放热门视频、订阅油管频道，功能过于强大，建议Telegrammer人手一个</li>
-</ul>
-<h2 id="文件类">文件类</h2>
-<ul>
-<li><a href="https://t.me/tlgurbot"><strong>@tlgurbot</strong></a>   tlgur，发送图片、视频等各种文件获取公共链接，便于分享和存档</li>
+<li><a href="https://t.me/tlgurbot"><strong>@tlgurbot</strong></a>   tlgur，发送图片、视频等各种文件获取公共链接，便于引用、分享和存档，速度很快，Telegram上的文件托管服务</li>
 <li><a href="https://t.me/TGhost_bot"><strong>@TGhost_bot</strong></a>   TGhost — file sharing，发送文件获取下载链接</li>
+<li><a href="https://t.me/GetPublicLinkBot"><strong>@GetPublicLinkBot</strong></a>   嫌电报直接下载大文件速度慢，可以直接用这个机器人转存到自己的谷歌网盘或者获取外部下载链接满速下载</li>
+<li><a href="https://t.me/uploadbot"><strong>@uploadbot</strong></a>   URL Uploader，发送文件url即可下载文件到 Telegram，如 Google Drive、Instagram分享链接，甚至还可以下载磁力</li>
+<li><a href="https://t.me/DrWebBot"><strong>@DrWebBot</strong></a>   Dr.Web，发送任何文件查看有无后门或病毒</li>
+<li><a href="https://t.me/Gdriveit_bot"><strong>@Gdriveit_bot</strong></a>   Google Drive Bot，支持上传和管理 Google Drive</li>
 </ul>
-<h2 id="邮箱">邮箱</h2>
+<h3 id="工具">工具</h3>
+<ul>
+<li><a href="https://t.me/AlertBot"><strong>@AlertBot</strong></a>   Alert Bot，可以在指定时间后发送指定信息给自己，一个提醒工具</li>
+<li><a href="https://t.me/fanhuaji_bot"><strong>@fanhuaji_bot</strong></a>   繁化姬器人，此机器人可以将文字或句子繁简转换、台湾化、中国化、香港化、拼音化、火星化等，非常实用！</li>
+<li><a href="https://t.me/sticker_time_bot"><strong>@sticker_time_bot</strong></a>   Sticker Time Bot，整点报时机器人</li>
+<li><a href="https://t.me/QRCodeRoBot"><strong>@QRCodeRoBot</strong></a>   QR Code Bot，识别二维码</li>
+<li><a href="https://t.me/WooMaiBot"><strong>@WooMaiBot</strong></a>   干物妹！小霾，多功能机器人</li>
+<li><a href="https://t.me/SovietJokesBot"><strong>@SovietJokesBot</strong></a>   苏联笑话生成器</li>
+<li><a href="https://t.me/LinkGeneratorBot"><strong>@LinkGeneratorBot</strong></a>   URL Shortener 🔗，短网址生成，前缀为 bit.ly、q.gs、tinyurl.com</li>
+<li><a href="https://t.me/referbot"><strong>@referbot</strong></a>   Shorten URL | ume.la，ume.la短网址，可查看链接打开统计数据</li>
+<li><a href="https://github.com/qwe7002/telegram-sms"><strong>Telegram SMS</strong></a>   一个在Android手机上跑的Telegram Bot，能帮你转发短信，监听未接通来电和监控电池电量；这一切都是直接调用Telegram Bot API的，不需要经过任何第三方服务器</li>
+</ul>
+<h3 id="邮箱">邮箱</h3>
 <ul>
 <li><a href="https://t.me/etlgr_bot"><strong>@etlgr_bot</strong></a>   Telegram Email，临时邮箱服务，@etlgr.com 后缀</li>
 <li><a href="https://t.me/fakemailbot"><strong>@fakemailbot</strong></a>   Fake Mail，临时邮箱服务，@hi2.in 后缀</li>
 </ul>
-<h2 id="工具">工具</h2>
-<ul>
-<li><a href="https://t.me/AlertBot"><strong>@AlertBot</strong></a>   Alert Bot，可以在指定时间后发送指定信息给自己，一个提醒工具</li>
-<li><a href="https://t.me/fanhuaji_bot"><strong>@fanhuaji_bot</strong></a>   繁化姬器人，此机器人可以将文字或句子繁简转换、台湾化、中国化、香港化、拼音化、火星化等，非常实用！</li>
-</ul>
-<h2 id="订阅">订阅</h2>
+<h3 id="订阅-rss">订阅 / RSS</h3>
 <ul>
 <li><a href="https://t.me/TheFeedReaderBot"><strong>@TheFeedReaderBot</strong></a>   Feed Reader Bot，除了RSS功能，还可以订阅YouTube、Twitter、Instagram、Netflix等媒体内容</li>
+<li><a href="https://t.me/RSSFlowBot"><strong>@RSSFlowBot</strong></a>   flowerss，一个支持应用内阅读的RSS机器人</li>
+<li><a href="https://t.me/RustRssBot"><strong>@RustRssBot</strong></a>   中文 Telegram RSS 机器人</li>
+<li><a href="https://t.me/pstrbot"><strong>@pstrbot</strong></a>   PosterBot，自动抓取 Instagram, Twitter, VK, Tumblr, You Tube 和 RSS 帖子/更新到频道</li>
+<li><a href="https://t.me/Channel2RSSBot"><strong>@Channel2RSSBot</strong></a>   channel2rssBot，将频道内容输出成 RSS 和 ATOM 订阅</li>
 </ul>
-<h2 id="贴纸">贴纸</h2>
+<h3 id="app">App</h3>
+<ul>
+<li><a href="https://t.me/PTRankBot"><strong>@PTRankBot</strong></a>   Beemo，可以帮助你搜索和分享 iOS/MacOS 应用</li>
+<li><a href="https://t.me/apkdl_bot"><strong>@apkdl_bot</strong></a>   APK Downloader，从 apkdl.in 下载安卓 App</li>
+</ul>
+<h3 id="英语">英语</h3>
+<ul>
+<li><a href="https://t.me/LexicoBot"><strong>@LexicoBot</strong></a>   调用 Wordnik 的多功能词典 Bot，可查释义、同反义词、例子等等</li>
+</ul>
+<h2 id="媒体">媒体</h2>
+<ul>
+<li><a href="https://t.me/getmediabot"><strong>@getmediabot</strong></a>   GetMediaBot，下载图片、歌曲、视频及更多</li>
+</ul>
+<h3 id="音乐">音乐</h3>
+<ul>
+<li><a href="https://t.me/Deezer_spotify_bot"><strong>@Deezer_spotify_bot</strong></a>   下载 Deezer 和 Spotify上的歌曲，可以搜索歌手、专辑、单曲进行下载，带轨道、发行时间、海报等歌曲信息，320kbps（可选下载音质），非常好用</li>
+<li><a href="https://t.me/MusicHuntersBot"><strong>@MusicHuntersBot</strong></a>   Music Hunters，输入 Deezer 和 Spotify 的单曲链接下载，带歌曲信息</li>
+<li><a href="https://t.me/YTAudioBot"><strong>@YTAudioBot</strong></a>   YouTube Audio Bot，下载YouTube视频的音频，支持20多种语言，发送视频链接即可下载</li>
+<li><a href="https://t.me/vkmusic_bot"><strong>@vkmusic_bot</strong></a>   VK Music Bot，曲库超大，有几十万用户，还可以搜中文歌，Spotify、SoundCloud也不在话下</li>
+<li><a href="https://t.me/scloud_bot"><strong>@scloud_bot</strong></a>   下载 SoundCloud里的歌曲，可直接搜索、发送链接下载</li>
+<li><a href="https://t.me/scdlbot"><strong>@scdlbot</strong></a>   Music Downloader，Download MP3s of tracks/sets from SoundCloud, Bandcamp, YouTube with tags.</li>
+<li><a href="https://t.me/spotifybot"><strong>@spotifybot</strong></a>   搜索 Spotify 数据库并下载或分享歌曲的预览</li>
+<li><a href="https://t.me/ChinoNyanBot"><strong>@ChinoNyanBot</strong></a>   チノ喵，网易云搜索下载机器人</li>
+<li><a href="https://t.me/iLyricsBot"><strong>@iLyricsBot</strong></a>   歌词搜索机器人，歌名加一点歌词内容即可精准返回歌词，非常实用</li>
+<li><a href="https://t.me/mp3toolsbot"><strong>@mp3toolsbot</strong></a>   MP3 Tools，可进行转换、剪辑、编辑歌曲信息等操作</li>
+<li><a href="https://t.me/MuzzzBot"><strong>@MuzzzBot</strong></a>   🎶 MuzzzBot 🎶，曲库强大，还可以通过麦克风识别歌曲</li>
+</ul>
+<h3 id="视频">视频</h3>
+<ul>
+<li><a href="https://t.me/utubebot"><strong>@utubebot</strong></a>   utubebot，支持YouTube、Dailymotion、Vimeo等多个视频平台，可以分别按照画质和音质下载视频、音频文件，还可以播放热门视频、订阅油管频道，功能过于强大，建议Telegrammer人手一个</li>
+</ul>
+<h3 id="图片与贴纸">图片与贴纸</h3>
+<h4 id="贴纸生成">贴纸生成</h4>
 <ul>
 <li><a href="https://t.me/big_text_bot"><strong>@big_text_bot</strong></a>   Text sticker，此机器人可以建立大字图，只要输入「@big_text_bot +指定文字」就可以生成大字图</li>
-<li><a href="https://t.me/stickerset2packbot"><strong>@stickerset2packbot</strong></a>   StickerSetBot，此机器人可以打包贴纸并下载，也可以打包贴纸成贴纸包<br>
-##图片</li>
+<li><a href="https://t.me/youqianbot"><strong>@youqianbot</strong></a>   为所欲为，快速创建为所欲为表情包</li>
+<li><a href="https://t.me/wangjingze_bot"><strong>@wangjingze_bot</strong></a>    王境泽，快速创建王境泽表情包</li>
+<li><a href="https://t.me/crabravebot"><strong>@crabravebot</strong></a>   Crab Rave Bot，输入文字生成搞笑的螃蟹跳舞图</li>
+<li><a href="https://t.me/yaplus_bot"><strong>@yaplus_bot</strong></a>   Yaplus Bot，生成带文字的 Yaplus 风格贴纸</li>
+</ul>
+<h4 id="编辑与管理">编辑与管理</h4>
+<ul>
+<li><a href="https://t.me/photo2stickerbot"><strong>@photo2stickerbot</strong></a>   Sticker Editor，贴纸编辑器，编辑完成后可发布到官方Stickers bot</li>
+<li><a href="https://t.me/GifReverseBot"><strong>@GifReverseBot</strong></a>   GIF Reverse Bot，GIF / short video倒放</li>
+<li><a href="https://t.me/FavoriteStickersBot"><strong>@FavoriteStickersBot</strong></a>   Favorite Stickers，创建自己的贴纸收藏夹，也可以创建贴纸包</li>
+<li><a href="https://t.me/giftubebot"><strong>@giftubebot</strong></a>   GifTube，截取 Youtube 或 Vimeo 片段然后生成 Gif</li>
+</ul>
+<h4 id="下载贴纸">下载贴纸</h4>
+<ul>
+<li><a href="https://t.me/stickerset2packbot"><strong>@stickerset2packbot</strong></a>   StickerSetBot，此机器人可以打包贴纸并下载，也可以打包贴纸成贴纸包</li>
+<li><a href="https://t.me/Stickerdownloadbot"><strong>@Stickerdownloadbot</strong></a>   Sticker Downloader，下载贴纸和贴纸包</li>
+<li><a href="https://t.me/GIFDownloader_bot"><strong>@GIFDownloader_bot</strong></a>   TG Downloader，下载 GIF，静态贴纸和静态贴纸集</li>
+<li><a href="https://t.me/dlgifbot"><strong>@dlgifbot</strong></a>   DownloadGifBot，下载GIF或贴纸</li>
+</ul>
+<h4 id="图片">图片</h4>
+<ul>
 <li><a href="https://t.me/MaribelBot"><strong>@MaribelBot</strong></a>   Maribel，此机器人可以获取网络上的ACG插图，来源相当多元</li>
+<li><a href="https://t.me/Instasave_bot"><strong>@Instasave_bot</strong></a>   InstaSave，发送帖子link下载Instagram图片，发送@用户名下载头像和简介</li>
+<li>输入框内打出 @bing / @pic / @gif 可进行 Bing / Yandex / Giphy 图片搜索，贴纸库不够用的时候可以派上用场</li>
+<li><a href="https://t.me/reverseSearchBot"><strong>@reverseSearchBot</strong></a>   Reverse Search B⌕t，反向搜索机器人，发送图片/GIF/贴纸即可，或者发送里番截图返回了节目信息以及时间戳</li>
 </ul>
 <h2 id="频道管理">频道管理</h2>
 <h3 id="投票">投票</h3>
 <ul>
 <li><a href="@PollBot"><strong>@PollBot</strong></a>   PollBot</li>
+<li><a href="https://t.me/vote"><strong>@vote</strong></a>   VoteBot</li>
 </ul>
 <h3 id="按钮">按钮</h3>
 <ul>
 <li><a href="https://t.me/like"><strong>@like</strong></a>   LikeBot，建立信息附加按钮、Emoji按钮</li>
+<li><a href="https://t.me/ChannelLikeBot"><strong>@ChannelLikeBot</strong></a>   Channel Like Bot，实用的添加点赞、反对按钮机器人</li>
+</ul>
+<h3 id="评论">评论</h3>
+<ul>
+<li><a href="https://t.me/jogle_channel_bot"><strong>@jogle_channel_bot</strong></a>   实用的频道评论 Bot</li>
+</ul>
+<h3 id="关键词">关键词</h3>
+<ul>
+<li><a href="https://t.me/AntiHyperlinkBot"><strong>@AntiHyperlinkBot</strong></a>   AntiHyperlinkBot，自动删除群组聊天中的超链接</li>
+<li><a href="https://t.me/AntiServiceMessageBot"><strong>@AntiServiceMessageBot</strong></a>   AntiServiceMessageBot，自动删除进退群提示</li>
+<li><a href="https://t.me/AntiCommandBot"><strong>@AntiCommandBot</strong></a>   AntiCommandBot，自带删除群组中的  /命令</li>
+<li><a href="https://t.me/AntiArabicScriptBot"><strong>@AntiArabicScriptBot</strong></a>   AntiArabicScriptBot，删除阿拉伯文字</li>
+<li><a href="https://t.me/nosticker_bot"><strong>@nosticker_bot</strong></a>   NoSticker，删除群贴图</li>
+<li><a href="https://t.me/keyword_reply_bot"><strong>@keyword_reply_bot</strong></a>   这个我知道 - 关键词回复机器人</li>
+<li><a href="https://t.me/FengFAQBot"><strong>@FengFAQBot</strong></a>   群主の蜜 - 雪儿，自定义功能强大的回复和检测机器人</li>
+</ul>
+<h3 id="加群欢迎">加群欢迎</h3>
+<ul>
+<li><a href="https://t.me/jh0ker_welcomebot"><strong>@jh0ker_welcomebot</strong></a>   Welcome Bot</li>
+</ul>
+<h3 id="加群验证">加群验证</h3>
+<ul>
+<li><a href="https://t.me/Captchat_Bot"><strong>@Captchat_Bot</strong></a>   CaptchatBot，新成员验证码机器人，避免广告骚扰</li>
+<li><a href="https://t.me/join_captcha_bot"><strong>@join_captcha_bot</strong></a>   The Join Captcha Bot</li>
+<li><a href="https://t.me/Jqs7ZweiBot"><strong>@Jqs7ZweiBot</strong></a>   Zwei</li>
+<li><a href="https://t.me/group_confirmation_bot"><strong>@group_confirmation_bot</strong></a>   验证机器人</li>
+<li><a href="https://t.me/shieldy_bot"><strong>@shieldy_bot</strong></a>   Shieldy</li>
+<li><a href="https://t.me/toorucaptchabot"><strong>@toorucaptchabot</strong></a>   ロボ子さん🤖，托尔进群验证(选择题)</li>
+<li><a href="https://t.me/group_captcha_bot"><strong>@group_captcha_bot</strong></a>   牧羊犬(选择题)</li>
+<li><a href="https://t.me/policr_bot"><strong>@policr_bot</strong></a>   PolicrBot，专注于审核群成员的机器人，可以关注下更新频道，能学到不少防spam的知识</li>
+</ul>
+<h3 id="抽奖">抽奖</h3>
+<ul>
+<li><a href="https://t.me/LotteryHelperBot"><strong>@LotteryHelperBot</strong></a>   抽奖助手</li>
+<li><a href="https://t.me/FengDrawBot"><strong>@FengDrawBot</strong></a>   抽奖秘书</li>
+<li><a href="https://t.me/tglottery_bot"><strong>@tglottery_bot</strong></a>   Lottery Bot</li>
+</ul>
+<h3 id="posts">Posts</h3>
+<ul>
+<li>
+<p><a href="https://t.me/printfbot"><strong>@printfbot</strong></a>   printf，帖子格式编辑的瑞士军刀，可选 html、markdown、原生编辑模式</p>
+</li>
+<li>
+<p><a href="https://t.me/areply_bot"><strong>@areply_bot</strong></a>   自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能</p>
+</li>
+</ul>
+<h3 id="多功能管理">多功能管理</h3>
+<ul>
+<li>
+<p><a href="https://t.me/combot"><strong>@combot</strong></a>   Combot，可以在网页上管理群组和频道</p>
+</li>
+<li>
+<p><a href="https://t.me/WatchDoorBot"><strong>@WatchDoorBot</strong></a>   Watch Door</p>
+</li>
+<li>
+<p><a href="https://t.me/MissRose_bot"><strong>@MissRose_bot</strong></a>   Rose</p>
+</li>
+<li>
+<p><a href="https://t.me/CricketGroup1_bot"><strong>@CricketGroup1_bot</strong></a>   Alia ✪</p>
+</li>
+<li>
+<p><a href="https://t.me/FengStatsBot"><strong>@FengStatsBot</strong></a>   统计秘书</p>
+</li>
+<li>
+<p><a href="https://t.me/ControllerBot"><strong>@ControllerBot</strong></a>   Controller Bot</p>
+</li>
+<li>
+<p><a href="https://t.me/GroupButler_bot"><strong>@GroupButler_bot</strong></a>   Group Butler</p>
+</li>
+<li>
+<p><a href="https://t.me/FengDoorBot"><strong>@FengDoorBot</strong></a>   大掌门</p>
+</li>
+<li>
+<p><a href="https://t.me/ProtectronBot"><strong>@ProtectronBot</strong></a>   俄罗斯人开发的电报消息过滤处理系统</p>
+</li>
 </ul>
 ]]></content>
     </entry>
