@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://blog.rawstack.co</id>
     <title>Raw博客</title>
-    <updated>2020-04-20T05:58:19.361Z</updated>
+    <updated>2020-04-20T06:07:11.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://blog.rawstack.co"/>
+    <link rel="self" href="https://blog.rawstack.co/atom.xml"/>
     <subtitle>Techs make fun.</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://blog.rawstack.co/images/avatar.png</logo>
+    <icon>https://blog.rawstack.co/favicon.ico</icon>
     <rights>All rights reserved 2020, Raw博客</rights>
     <entry>
         <title type="html"><![CDATA[Telegram Bots推荐]]></title>
-        <id>http://localhost:4000/post/telegram-bots/</id>
-        <link href="http://localhost:4000/post/telegram-bots/">
+        <id>https://blog.rawstack.co/post/telegram-bots/</id>
+        <link href="https://blog.rawstack.co/post/telegram-bots/">
         </link>
         <updated>2020-04-18T06:19:41.000Z</updated>
         <summary type="html"><![CDATA[<p>Telegram 在 2015 年 6 月发布了<a href="https://telegram.org/blog/bot-revolution">机器人平台</a>，经过几年的发展，基于其丰富的自定义接口和开放的特性，把 Telegram 这样一款IM工具也扩化成了瑞士军刀，也已然融入到了个人和社区用户的日常 Telegram 使用中。这里推荐一些TG机器人，帮助大家提高Telegram的使用体验。</p>
@@ -22,7 +22,7 @@
 <!-- more -->
 <h2 id="bots-商店">Bots 商店</h2>
 <p>在 <a href="https://rawstack.co/">Raw栈导航</a> 最下面的 <strong>Telegram频道</strong> - <strong>Bot商店</strong>，你可以找到很多发布和更新Bots的频道或机器人（非套娃），跳转查看就可以获取各种实用 Bots。</p>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1587194233378.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://blog.rawstack.co/post-images/1587194233378.png" alt="" loading="lazy"></figure>
 <h2 id="官方-bots">官方 Bots</h2>
 <ul>
 <li><a href="https://t.me/BotFather"><strong>@BotFather</strong></a>   BotFather，可以创建和管理机器人，Bot 教父</li>
@@ -122,13 +122,13 @@
 <ul>
 <li><a href="https://t.me/TheFeedReaderBot"><strong>@TheFeedReaderBot</strong></a>   Feed Reader Bot，除了RSS功能，还可以订阅YouTube、Twitter、Instagram、Netflix等媒体内容</li>
 <li><a href="https://t.me/AximoBot"><strong>@AximoBot</strong></a>   AximoBot，订阅 Instagram、Medium、Twitch、Twitter、YouTube 等平台用户的更新</li>
-<li><a href="https://t.me/junction_bot"><strong>@junction_bot</strong></a>   Channels，订阅多个 Telegram 频道的内容到一个频道，还可以分组进行订阅</li>
+<li><a href="https://t.me/junction_bot"><strong>@junction_bot</strong></a>   Channels，订阅多个 Telegram 频道的内容到一个频道，还可以对订阅进行分组</li>
 <li><a href="https://t.me/RSSFlowBot"><strong>@RSSFlowBot</strong></a>   flowerss，一个支持 Instant View（应用内阅读）的中文RSS机器人</li>
 <li><a href="https://t.me/RustRssBot"><strong>@RustRssBot</strong></a>   中文 Telegram RSS 机器人</li>
 <li><a href="https://t.me/pstrbot"><strong>@pstrbot</strong></a>   PosterBot，自动抓取 Instagram, Twitter, VK, Tumblr, You Tube 和 RSS 帖子/更新到频道</li>
 <li><a href="https://t.me/Channel2RSSBot"><strong>@Channel2RSSBot</strong></a>   channel2rssBot，将频道内容输出成 RSS 和 ATOM 订阅</li>
 <li><a href="https://t.me/FeedManBot"><strong>@FeedManBot</strong></a>   Feed Man Bot，好用的 RSS Bot，获取 Instant View 文章</li>
-<li><a href="https://t.me/inztabot"><strong>@inztabot</strong></a>   订阅 Instagram 用户以便在 Telegram 内部查看新鲜帖子</li>
+<li><a href="https://t.me/inztabot"><strong>@inztabot</strong></a>   订阅 Instagram 用户以便在 Telegram 内查看新鲜帖子</li>
 <li><a href="https://t.me/rss2tg_bot"><strong>@rss2tg_bot</strong></a>   一款简单的 RSS 订阅 Bot</li>
 <li><a href="https://t.me/ytWatchBot"><strong>@ytWatchBot</strong></a>   订阅 YouTube 频道</li>
 </ul>
@@ -163,8 +163,8 @@
 <h3 id="音乐">音乐</h3>
 <h4 id="搜索与识别">搜索与识别</h4>
 <ul>
-<li>对话框内打出 **@music ** 可以搜索下载古典音乐</li>
-<li>对话框内打出 **@myinstantsbot ** 可以搜索 <a href="https://www.myinstants.com/"><strong>Myinstants</strong></a> 上的音效</li>
+<li>对话框内打出 <strong>@music</strong> 可以搜索下载古典音乐</li>
+<li>对话框内打出 <strong>@myinstantsbot</strong> 可以搜索 <a href="https://www.myinstants.com/"><strong>Myinstants</strong></a> 上的音效</li>
 <li><a href="https://t.me/SongIDbot"><strong>@SongIDbot</strong></a>   Song🆔，强大且开源的音乐识别机器人</li>
 </ul>
 <h4 id="下载">下载</h4>
@@ -194,7 +194,7 @@
 <h4 id="编辑">编辑</h4>
 <ul>
 <li><a href="https://t.me/mp3toolsbot"><strong>@mp3toolsbot</strong></a>   MP3 Tools，可进行转换、剪辑、编辑歌曲信息等操作</li>
-<li><a href="https://t.me/encoderbot"><strong>@encoderbot</strong></a>   Audio Converter，将音乐文件压缩成 AAC+ 格式，AAC+ 格式是一种高效的音频格式，音质好且占用更少空间</li>
+<li><a href="https://t.me/encoderbot"><strong>@encoderbot</strong></a>   Audio Converter，将音乐文件压缩成 AAC+ 格式，AAC+ 格式是一种高效的音频压缩格式，音质好且占用更少空间</li>
 <li><a href="https://t.me/audiocutterbot"><strong>@audiocutterbot</strong></a>   Audiocutter，自定义区间剪辑音乐</li>
 </ul>
 <h4 id="播客">播客</h4>
@@ -275,7 +275,7 @@
 <h3 id="按钮">按钮</h3>
 <ul>
 <li><a href="https://t.me/like"><strong>@like</strong></a>   LikeBot，建立信息附加按钮、Emoji按钮</li>
-<li><a href="https://t.me/ChannelLikeBot"><strong>@ChannelLikeBot</strong></a>   Channel Like Bot，实用的添加点赞、反对按钮机器人</li>
+<li><a href="https://t.me/ChannelLikeBot"><strong>@ChannelLikeBot</strong></a>   Channel Like Bot，实用的添加赞和踩按钮机器人</li>
 </ul>
 <h3 id="评论">评论</h3>
 <ul>
@@ -341,8 +341,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hi-gridea/</id>
-        <link href="http://localhost:4000/post/hi-gridea/">
+        <id>https://blog.rawstack.co/post/hi-gridea/</id>
+        <link href="https://blog.rawstack.co/post/hi-gridea/">
         </link>
         <updated>2020-04-14T00:12:07.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  开始使用 <strong>Gridea</strong> ！<br>
