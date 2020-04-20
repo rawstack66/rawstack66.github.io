@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.rawstack.co</id>
     <title>Raw博客</title>
-    <updated>2020-04-20T06:07:11.484Z</updated>
+    <updated>2020-04-20T06:17:27.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.rawstack.co"/>
     <link rel="self" href="https://blog.rawstack.co/atom.xml"/>
@@ -20,6 +20,10 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>Telegram 在 2015 年 6 月发布了<a href="https://telegram.org/blog/bot-revolution">机器人平台</a>，经过几年的发展，基于其丰富的自定义接口和开放的特性，把 Telegram 这样一款IM工具也扩化成了瑞士军刀，也已然融入到了个人和社区用户的日常 Telegram 使用中。这里推荐一些TG机器人，帮助大家提高Telegram的使用体验。</p>
 <!-- more -->
+<blockquote>
+<p><em>I’m sorry in advance if I have to talk bluntly sometimes. After all, I’m just a robot.</em><br>
+<em>如果有时候说话很直白我先表示抱歉，毕竟我只是个机器人。</em></p>
+</blockquote>
 <h2 id="bots-商店">Bots 商店</h2>
 <p>在 <a href="https://rawstack.co/">Raw栈导航</a> 最下面的 <strong>Telegram频道</strong> - <strong>Bot商店</strong>，你可以找到很多发布和更新Bots的频道或机器人（非套娃），跳转查看就可以获取各种实用 Bots。</p>
 <figure data-type="image" tabindex="1"><img src="https://blog.rawstack.co/post-images/1587194233378.png" alt="" loading="lazy"></figure>
